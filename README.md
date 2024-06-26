@@ -3,7 +3,8 @@
 #### Technical Skills: Python, C, Rust, SQL, AWS, Docker, Kubernetes 
 
 ## Education 			        		
-- B.S., Computer Science | Texas Tech University  - Lubbock, TX (_May 2026_)
+B.S., Computer Science | Texas Tech University  
+- Lubbock, TX (_May 2026_)
 
 ## Work Experience
 **Student Assistant @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**

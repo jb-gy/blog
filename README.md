@@ -13,29 +13,42 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 - Completed individual projects at the request of central management.
 - Worked with senior staff to create new software solutions for the university.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**
+- Collaborated with a team of engineers on the design, development, and implementation of new software programs for clients.
+- Regularly tested new implemented software features and provided detailed reports about any bugs or issues identified. 
+- Developed and optimized cloud architecture for web and mobile applications with senior staff.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+
+Library System Simulation Project
+Java	
+•	Created a Java program using IntelliJ to simulate a simple library system. 
+•	Implemented functionalities including borrowing and returning books, tracking available copies, 
+and managing member information. 
+•	Demonstrated interactions between objects in the program by creating at least 5 book objects and 
+3 library member objects. 
+•	Utilized methods to perform various actions within the system
+
+### Planmycash (budget planning app) – HackwesTX group project (2023)
+_Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
+
+- Implemented the lambda functions and APIs for the core features of the application.
 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+### SMS (Store management System) Project
+_Python backend, tkinter_
+- Interactive local application for supermarket shopping.
+•	Memory efficient and secure application for a shopping and store management simulation.
+
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)

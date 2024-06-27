@@ -17,11 +17,13 @@ My interests also extend to the dynamic field of blockchain technology and crypt
 
 ## EDUCATION 			        		
 B.S., Computer Science | Texas Tech University - _May 2026_
+
+
 **Active member of:**
-- Web3 Acceleration Association | [🌐 website](https://www.waatech.xyz/))
-- Colorstack | [🌐 website](https://www.colorstack.org/))
-- Codepath | [🌐 website](https://www.codepath.org/ ))
-- NSBE TTU |  [🌐 website](https://www.nsbe.org/))
+- [Web3 Acceleration Association](https://www.waatech.xyz/)
+- [Colorstack](https://www.colorstack.org/)
+- [Codepath](https://www.codepath.org/ )
+- [NSBE TTU ](https://www.nsbe.org/)
 
 ## WORK EXPERIENCE
 **Student Assistant @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**
@@ -44,7 +46,7 @@ _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 - Implemented the lambda functions and APIs for the core features of the application.
 
-- [LinkedIn post]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop))
+- [LinkedIn post 🌐]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop))
 
 
 ![HackwesTX](/hackwest.png)

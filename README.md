@@ -29,7 +29,7 @@ _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 - [LinkedIn post]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop))
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![HackwesTX](/hackwest.png)
 
 
 ### SMS (Store management System) Project
@@ -38,7 +38,7 @@ _Python backend, tkinter_
 - Memory efficient and secure application for a shopping and store management simulation.
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![the process](/code.png)
 
 ### Library System Simulation Project
 _Java_

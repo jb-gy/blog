@@ -46,8 +46,7 @@ _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 - Implemented the lambda functions and APIs for the core features of the application.
 
-- [LinkedIn post 🌐]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop))
-
+- [LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)
 
 ![HackwesTX](/hackwest.png)
 
@@ -75,6 +74,6 @@ _Java_
 - New Horizons Institute, Lagos, Nigeria — Certified Python Programmer - 2021
 - AWS Certified Cloud Practitioner — 2023 
 - AWS Certified Solutions Architect Professional — 2024 (in progress)
-- Codepath Technical Interview Prep TIP101 - 2024 (in progress)
+- Codepath Technical Interview Prep TIP101  — 2024 (in progress)
 
 

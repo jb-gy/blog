@@ -27,10 +27,10 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 ## WORK EXPERIENCE
 **Student Assistant @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Served as first line technical support for departments, faculty, and students in the use of computing hardware, software, and network connections to facilitate access to IT   services
 - Aided in the development and revision of knowledge articles.
 - Completed individual projects at the request of central management.
+- Aided in training students and faculty to adopt new MFA measures with Duo in the school's ecosystem.
 - Worked with senior staff to create new software solutions for the university.
 
 **Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**

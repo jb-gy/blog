@@ -49,9 +49,9 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 - Collaborated in a team of two to analyze the "Motor_Vehicle_Collisions_-_Crashes.csv" dataset, focusing on NYC vehicle accidents from 2016 to 2022.
 - Filtered and cleaned the large dataset, reducing it from over a million records to approximately 154,000 records for more accurate analysis.
 - Utilized Jupyter Python workspace and leveraged various libraries (e.g., pandas, NumPy, matplotlib) to develop and train a precise predictive model.
-- Presented comprehensive findings and insights, demonstrating an in-depth understanding of the dataset and its implications.
-- Ensured data integrity and maintained rigorous documentation throughout the project, facilitating seamless collaboration and transparency.
-
+- Conducted thorough data exploration and cleaning to ensure high-quality data for analysis and modeling.
+- Presented findings and model results to the class, demonstrating a deep understanding of the dataset and the analytical techniques employed.
+- Demonstrated strong teamwork and communication skills, coordinating effectively to meet project deadlines and deliver high-quality results.
 
 
 

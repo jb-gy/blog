@@ -43,24 +43,28 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 ### Machine Learning Project
 _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
+
+**[Project Keynote slides 🌐](https://github.com/jb-gy/ML-project-Fall2022/blob/main/ML-PROJECT-GROUP-18.pdf)**
+
 - Collaborated in a team of two to analyze the "Motor_Vehicle_Collisions_-_Crashes.csv" dataset, focusing on NYC vehicle accidents from 2016 to 2022.
 - Filtered and cleaned the large dataset, reducing it from over a million records to approximately 154,000 records for more accurate analysis.
 - Utilized Jupyter Python workspace and leveraged various libraries (e.g., pandas, NumPy, matplotlib) to develop and train a precise predictive model.
 - Presented comprehensive findings and insights, demonstrating an in-depth understanding of the dataset and its implications.
 - Ensured data integrity and maintained rigorous documentation throughout the project, facilitating seamless collaboration and transparency.
 
-- [Project Keynote slides 🌐](https://github.com/jb-gy/ML-project-Fall2022/blob/main/ML-PROJECT-GROUP-18.pdf)
+
 
 
 ### Planmycash (budget planning app) – HackwesTX group project (2023)
 _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
+
+**[LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)**
 
 - Collaborated with team members to integrate backend services with the front-end interface, achieving seamless functionality.
 - Implemented Lambda functions and APIs to support the core features of the application, ensuring efficient and reliable performance.
 - Demonstrated proficiency in AWS services and cloud-based architecture, enhancing the scalability and flexibility of the application.
 - Played a key role in debugging and troubleshooting issues, ensuring the app met project requirements and user expectations.
 
-- [LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)
 
 ![HackwesTX](/hackwest.png)
 

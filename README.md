@@ -49,7 +49,7 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 - Presented comprehensive findings and insights, demonstrating an in-depth understanding of the dataset and its implications.
 - Ensured data integrity and maintained rigorous documentation throughout the project, facilitating seamless collaboration and transparency.
 
-![Project Keynote slides](/ML-PROJECT-GROUP-18.pdf)
+- [Project Keynote slides 🌐](https://github.com/jb-gy/ML-project-Fall2022/blob/main/ML-PROJECT-GROUP-18.pdf)
 
 
 ### Planmycash (budget planning app) – HackwesTX group project (2023)

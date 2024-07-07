@@ -34,17 +34,31 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 - Worked with senior staff to create new software solutions for the university.
 
 **Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**
-- Collaborated with a team of engineers on the design, development, and implementation of new software programs for clients.
+- Shadowed and collaborated with a team of engineers on the design, development, and implementation of new software programs for clients.
 - Regularly tested new implemented software features and provided detailed reports about any bugs or issues identified. 
 - Developed and optimized cloud architecture for web and mobile applications with senior staff.
 
 
 ## PROJECTS
 
+### Machine Learning Project
+_Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
+- Collaborated in a team of two to analyze the "Motor_Vehicle_Collisions_-_Crashes.csv" dataset, focusing on NYC vehicle accidents from 2016 to 2022.
+- Filtered and cleaned the large dataset, reducing it from over a million records to approximately 154,000 records for more accurate analysis.
+- Utilized Jupyter Python workspace and leveraged various libraries (e.g., pandas, NumPy, matplotlib) to develop and train a precise predictive model.
+- Presented comprehensive findings and insights, demonstrating an in-depth understanding of the dataset and its implications.
+- Ensured data integrity and maintained rigorous documentation throughout the project, facilitating seamless collaboration and transparency.
+
+![Project Keynote slides](/ML-PROJECT-GROUP-18.pdf)
+
+
 ### Planmycash (budget planning app) – HackwesTX group project (2023)
 _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
-- Implemented the lambda functions and APIs for the core features of the application.
+- Collaborated with team members to integrate backend services with the front-end interface, achieving seamless functionality.
+- Implemented Lambda functions and APIs to support the core features of the application, ensuring efficient and reliable performance.
+- Demonstrated proficiency in AWS services and cloud-based architecture, enhancing the scalability and flexibility of the application.
+- Played a key role in debugging and troubleshooting issues, ensuring the app met project requirements and user expectations.
 
 - [LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)
 
@@ -65,6 +79,9 @@ _Java_
 - Implemented functionalities including borrowing and returning books, tracking available copies, and managing member information. 
 - Demonstrated interactions between objects in the program by creating at least 5 book objects and 3 library member objects. 
 - Utilized methods to perform various actions within the system
+
+
+
 
 
 

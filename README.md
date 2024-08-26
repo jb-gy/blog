@@ -26,12 +26,11 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 - [NSBE TTU ](https://www.nsbe.org/)
 
 ## WORK EXPERIENCE
-**Student Assistant @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**
+**Student Analyst I @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**
 - Served as first line technical support for departments, faculty, and students in the use of computing hardware, software, and network connections to facilitate access to IT   services
-- Aided in the development and revision of knowledge articles.
-- Completed individual projects at the request of central management.
-- Aided in training students and faculty to adopt new MFA measures with Duo in the school's ecosystem.
-- Worked with senior staff to create new software solutions for the university.
+- Aided in the development and revision of knowledge base articles to help resolve reoccurring requests.
+- Onboarded students and university staff in integrating Duo as the MFA medium for securing their accounts in the school's ecosystem.
+- Collaborated with senior staff to create software solutions for the university.
 
 **Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**
 - Shadowed and collaborated with a team of engineers on the design, development, and implementation of new software programs for clients.
@@ -71,8 +70,9 @@ _Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 ### SMS (Store management System) Project
 _Python backend, tkinter_
-- Interactive local application for supermarket shopping.
-- Memory efficient and secure application for a shopping and store management simulation.
+- Built a monolithic local application for supermarket shopping.
+- Created multiple levels of IAM users and their functions in the application.
+- Implemented memory efficiency and least privilege access for various types of users in the simulation.
 
 
 ![the process](/code.png)

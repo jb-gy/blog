@@ -55,7 +55,7 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 
 
 ### Planmycash (budget planning app) – HackwesTX group project (2023)
-_Java, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
+_Java, Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 **[LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)**
 

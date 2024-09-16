@@ -19,23 +19,42 @@ My interests also extend to the dynamic field of blockchain technology and DeFi,
 B.S., Computer Science | Texas Tech University - _May 2026_
 
 
-**Active member of:**
+**Actively involved in:**
 - [Web3 Acceleration Association](https://www.waatech.xyz/)
 - [Colorstack](https://www.colorstack.org/)
 - [Codepath](https://www.codepath.org/ )
 - [NSBE TTU ](https://www.nsbe.org/)
 
-## WORK EXPERIENCE
+## EXPERIENCE
 **Student Analyst I @ Texas Tech University - IT Help Central (_Feb 2023 - Aug 2023_)**
-- Served as first line technical support for departments, faculty, and students in the use of computing hardware, software, and network connections to facilitate access to IT   services
-- Aided in the development and revision of knowledge base articles to help resolve reoccurring requests.
-- Onboarded students and university staff in integrating Duo as the MFA medium for securing their accounts in the school's ecosystem.
-- Collaborated with senior staff to create software solutions for the university.
+- Served as first line technical support for departments, faculty, and students in the use of computing hardware, software, and network connections to facilitate access to IT services.
+- Aided in the development and revision of 70+ technical knowledge base articles to help resolve reoccurring requests.
+- Onboarded over 300 students and university staff in integrating Duo as the MFA medium for securing their accounts.
+- Collaborated with 50+ senior staff & engineers to review and create new software solutions for the university
+
+
 
 **Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**
-- Shadowed and collaborated with a team of engineers on the design, development, and implementation of new software programs for clients.
+- Shadowed and collaborated with a team of five engineers on the design, development, and implementation of new software programs for clients.
 - Regularly tested new implemented software features and provided detailed reports about any bugs or issues identified. 
 - Developed and optimized cloud architecture for web and mobile applications with senior staff.
+- Experienced hands on implementation of multiple tools like Docker, Kubernetes, Ansible, etc.
+
+
+**Technical Interview Prep Fellow @ Codepath (_Jun 2024 - Aug 2024_)**
+- Collaborated with multiple pod members and solved 100+ algorithmic problems during breakout sessions
+- Learned and adopted the use of UMPIRE method in solving technical problems from experienced software engineers
+- Conducted 20+ mock interviews, while demonstrating a strong knowledge of DSA with over 85% ratings during the 10 weeks of the program
+
+
+
+**Undergraduate Campus Scout @ Collide Capital (_Sep 2024 - Present_)**
+- Interviewed and selected to join the Fall 2024 cohort after discovering and bringing a promising tech startup - [Goalspaces](https://www.goalspaces.com/) - to the firm, leading the relationship-building efforts with the founders, positioning the firm for a potential series A investment of $500K
+- Identified and vetted over 15 early-stage tech startups across various sectors, focusing on innovation, growth potential, and market disruption
+- Designed a scalable research framework to evaluate startup viability, using data-driven analysis to assess product-market fit, team strength, and growth trajectory
+- Currently acting as a liaison between the firm and founders, ensuring clear communication of investment criteria and fostering long-term, meaningful partnerships with a network of emerging tech innovators
+
+
 
 
 ## PROJECTS
@@ -48,6 +67,7 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 - Collaborated in a team of two to analyze the "Motor_Vehicle_Collisions_-_Crashes.csv" dataset, focusing on NYC vehicle accidents from 2016 to 2022.
 - Filtered and cleaned the large dataset, reducing it from over a million records to approximately 154,000 records for more accurate analysis.
 - Utilized Jupyter Python workspace and leveraged various libraries (e.g., pandas, NumPy, matplotlib) to develop and train a precise predictive model.
+- Trained and visualized the model using multiple python libraries and achieved a RMSE of ~ 0.38%
 - Conducted thorough data exploration and cleaning to ensure high-quality data for analysis and modeling.
 - Presented findings and model results to the class, demonstrating a deep understanding of the dataset and the analytical techniques employed.
 - Demonstrated strong teamwork and communication skills, coordinating effectively to meet project deadlines and deliver high-quality results.
@@ -71,7 +91,7 @@ _Java, Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 ### SMS (Store management System) Project
 _Python backend, tkinter_
 - Built a monolithic local application for supermarket shopping.
-- Created multiple levels of IAM users and their functions in the application.
+- Created two levels of IAM users and their functions in the application.
 - Implemented memory efficiency and least privilege access for various types of users in the simulation.
 
 
@@ -85,7 +105,7 @@ _Java_
 - Utilized methods to perform various actions within the system
 
 
-
+<more in progress, stay tuned...........>
 
 
 

@@ -108,6 +108,9 @@ _Java_
 <more in progress, stay tuned...........>
 
 Do not hesitate to reach out to collaborate on projects, or hire me if you're a recruiter :)
+
+
+
 Email: ajibola.gy@gmail.com
 
 
@@ -118,6 +121,6 @@ Email: ajibola.gy@gmail.com
 - New Horizons Institute, Lagos, Nigeria — Certified Python Programmer - 2021
 - AWS Certified Cloud Practitioner — 2023 
 - AWS Certified Solutions Architect Professional — 2024 (in progress)
-- Codepath Technical Interview Prep TIP101  — 2024 (in progress)
+- Codepath Technical Interview Prep TIP101  — 2024 
 
 

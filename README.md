@@ -13,7 +13,7 @@ I am a junior at Texas Tech University possessing strong problem-solving and com
 
 My interests also extend to the dynamic field of blockchain technology and DeFi, an area where I am actively expanding my knowledge. I am currently immersing myself in learning and project development, with a keen focus on devising solutions to existing challenges in this space.
 
-#### Technical Skills: Python, C, Rust, SQL, AWS, Docker, Kubernetes 
+#### Technical Skills: Python, Java, C, Rust, Solidity, SQL, AWS, Docker, Kubernetes 
 
 ## EDUCATION 			        		
 B.S., Computer Science | Texas Tech University - _May 2026_
@@ -106,6 +106,9 @@ _Java_
 
 
 <more in progress, stay tuned...........>
+
+Do not hesitate to reach out to collaborate on projects, or hire me if you're a recruiter :)
+Email: ajibola.gy@gmail.com
 
 
 

@@ -49,7 +49,7 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 
 **Undergraduate Campus Scout @ Collide Capital (_Sep 2024 - Present_)**
-- Interviewed and selected to join the Fall 2024 cohort after discovering and bringing a promising tech startup - [Goalspaces](https://www.goalspaces.com/) - to the firm, leading the relationship-building efforts with the founders, positioning the firm for a potential series A investment of $500K
+- Interviewed and selected to join the Fall 2024 cohort after discovering and bringing a promising tech startup - [Goalspaces](https://www.goalspaces.com/) - to the firm, leading the relationship-building efforts with the founders, positioning the firm for a potential series A investment
 - Identified and vetted over 15 early-stage tech startups across various sectors, focusing on innovation, growth potential, and market disruption
 - Designed a scalable research framework to evaluate startup viability, using data-driven analysis to assess product-market fit, team strength, and growth trajectory
 - Currently acting as a liaison between the firm and founders, ensuring clear communication of investment criteria and fostering long-term, meaningful partnerships with a network of emerging tech innovators

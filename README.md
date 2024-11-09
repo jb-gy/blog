@@ -59,7 +59,8 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 ## PROJECTS
 
-### Machine Learning Project  **[github](https://github.com/jb-gy/ML-project-Fall2022)**
+### Machine Learning Project  
+**[github](https://github.com/jb-gy/ML-project-Fall2022)**
 _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 
 **[Project Keynote slides 🌐](https://github.com/jb-gy/ML-project-Fall2022/blob/main/ML-PROJECT-GROUP-18.pdf)**
@@ -74,7 +75,8 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 
 
 
-### Planmycash (budget planning app) – HackwesTX group project (2023) **[github](https://github.com/jb-gy/HackwestX-Project)**
+### Planmycash (budget planning app) – HackwesTX group project (2023) 
+**[github](https://github.com/jb-gy/HackwestX-Project)**
 _Python,Typescript, Plaid API, Terraform, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 **[LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)**
@@ -88,7 +90,8 @@ _Python,Typescript, Plaid API, Terraform, AWS API gateway, AWS Lambda, AWS Dynam
 ![HackwesTX](/hackwest.png)
 
 
-### Student Management System Project **[github](https://github.com/jb-gy/Student-Management-System)**
+### Student Management System Project 
+**[github](https://github.com/jb-gy/Student-Management-System)**
 _React.JS, Typescript, Python, FAST API, Pydantic, Docker_
 - Developed a web-based student management system enabling comprehensive management of student records, including adding, viewing, updating, and deleting information, increasing administrative efficiency by an estimated 40%.
 
@@ -102,7 +105,8 @@ _React.JS, Typescript, Python, FAST API, Pydantic, Docker_
 
 
 
-### SMS (Store management System) Project **[github](https://github.com/jb-gy/SMS-Project)**
+### SMS (Store management System) Project 
+**[github](https://github.com/jb-gy/SMS-Project)**
 _Python backend, tkinter_
 
 - Built a monolithic local application for supermarket shopping.

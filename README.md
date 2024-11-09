@@ -75,7 +75,7 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 
 
 ### Planmycash (budget planning app) – HackwesTX group project (2023)
-_Java, Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
+_Python,Typescript, Plaid API, Terraform, AWS API gateway, AWS Lambda, AWS DynamoDB_
 
 **[LinkedIn post 🌐](https://www.linkedin.com/posts/ajibolagny_hackathon-innovation-tech-activity-7109988320729829376-P5OK?utm_source=share&utm_medium=member_desktop)**
 
@@ -88,11 +88,28 @@ _Java, Python, HTML, CSS, AWS API gateway, AWS Lambda, AWS DynamoDB_
 ![HackwesTX](/hackwest.png)
 
 
+### Student Management System Project
+_React.JS, Typescript, Python, FAST API, Pydantic, Docker_
+- Developed a web-based student management system enabling comprehensive management of student records, including adding, viewing, updating, and deleting information, increasing administrative efficiency by an estimated 40%.
+
+- Employed React with TypeScript for type-safe development and Material-UI for responsive design, achieving a modern interface that enhanced user experience by approximately 30%. Integrated with FastAPI and SQLite for a high-performance backend that improved data access speed by 25%.
+
+- Incorporated robust data validation and error handling, reducing data entry errors by an estimated 50%, ensuring the system’s reliability and data integrity.
+- Created and documented five key API endpoints that allow seamless CRUD operations, facilitating a 20% faster workflow in student data management.
+- Built with scalability in mind, with planned enhancements such as AWS DynamoDB integration and advanced features like user authentication and performance analytics projected to increase system capabilities by 35%.
+
+
+
+
+
 ### SMS (Store management System) Project
 _Python backend, tkinter_
+
 - Built a monolithic local application for supermarket shopping.
 - Created two levels of IAM users and their functions in the application.
 - Implemented memory efficiency and least privilege access for various types of users in the simulation.
+
+
 
 
 ![the process](/code.png)

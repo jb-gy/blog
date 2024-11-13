@@ -20,7 +20,7 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 
 **Actively involved in:**
-- [Web3 Acceleration Association [Board Member]](https://www.waatech.xyz/)
+- [Web3 Acceleration Association [Shadow Team]](https://www.waatech.xyz/)
 - [Colorstack](https://www.colorstack.org/)
 - [Codepath](https://www.codepath.org/ )
 - [NSBE TTU ](https://www.nsbe.org/)

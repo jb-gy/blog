@@ -126,12 +126,6 @@ _Python backend, tkinter_
 
 ![the process](/code.png)
 
-### Library System Simulation Project
-_Java_
-- Created a Java program using IntelliJ to simulate a simple library system. 
-- Implemented functionalities including borrowing and returning books, tracking available copies, and managing member information. 
-- Demonstrated interactions between objects in the program by creating at least 5 book objects and 3 library member objects. 
-- Utilized methods to perform various actions within the system
 
 
 <more in progress, stay tuned...........>

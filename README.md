@@ -1,4 +1,4 @@
-# Software Engineer
+
 
 ## PROFILE
 Welcome to my portfolio!
@@ -14,7 +14,7 @@ My interest in quantitative finance is driven by the challenge of leveraging com
 #### Technical Skills: Python, C++, OCaml, SQL, AWS
 
 ## EDUCATION 			        		
-B.S., Computer Science | Texas Tech University - _May 2026_
+B.S., Computer Science | Texas Tech University - _December 2026_
 
 
 **Actively involved in:**

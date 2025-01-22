@@ -8,10 +8,9 @@ Welcome to my portfolio!
 
 
 
+I am a junior at Texas Tech University with strong problem-solving and communication skills, currently pursuing a Bachelor’s degree in Computer Science. Alongside my formal education, I actively explore the latest technologies and analytical methods to keep my skill set current. Upon graduating, I plan to apply these abilities to tackle complex technical problems in both software engineering and quantitative finance.
 
-I am a junior at Texas Tech University with strong problem-solving and communication skills, currently pursuing a Bachelor’s degree in Computer Science. Alongside my formal education, I actively seek out new technologies and analytical methods to keep my skill set current. Upon graduating, I aim to become a Software Engineer focused on backend and infrastructure development, with a particular interest in quantitative finance.
-
-My enthusiasm for quantitative finance stems from the challenge of applying computational and mathematical techniques to extract insights from complex market data. I am exploring algorithmic trading concepts, data pipelines, and backtesting frameworks, with the goal of creating high-performing, data-driven systems that can adapt to evolving market conditions.
+My interest in quantitative finance is driven by the challenge of leveraging computational and mathematical techniques to extract actionable insights from large, intricate datasets. I have been examining algorithmic trading concepts, data pipelines, and backtesting frameworks, with the goal of crafting robust, data-driven solutions that adapt to dynamic market conditions.
 #### Technical Skills: Python, C++, OCaml, SQL, AWS
 
 ## EDUCATION 			        		

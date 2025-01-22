@@ -32,7 +32,7 @@ B.S., Computer Science | Texas Tech University - _December 2026_
 
 
 
-**Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Present_)**
+**Cloud Engineer (mentee) @ BC Twenty (_Aug 2023 - Dec 2024_)**
 - Shadowed and collaborated with a team of five engineers on the design, development, and implementation of new software programs for clients.
 - Regularly tested new implemented software features and provided detailed reports about any bugs or issues identified. 
 - Developed and optimized cloud architecture for web and mobile applications with senior staff.

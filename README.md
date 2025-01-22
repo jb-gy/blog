@@ -9,10 +9,9 @@ Welcome to my portfolio!
 
 
 
-I am a junior at Texas Tech University possessing strong problem-solving and communication skills, currently pursuing a bachelor’s degree in Computer Science while proactively acquiring diverse technical skills through online learning. I am dedicated to staying at the forefront of technology trends and embracing opportunities for skill enhancement. My goal is to be a Software Engineer, with a focus on backend and infrastructure development upon completing my studies.
+I am a junior at Texas Tech University with strong problem-solving and communication skills, currently pursuing a Bachelor’s degree in Computer Science. Alongside my formal education, I actively seek out new technologies and analytical methods to keep my skill set current. Upon graduating, I aim to become a Software Engineer focused on backend and infrastructure development, with a particular interest in quantitative finance.
 
-My interests also extend to the dynamic field of blockchain technology and DeFi, an area where I am actively expanding my knowledge. I am currently immersing myself in learning and project development, with a keen focus on devising solutions to existing challenges in this space.
-
+My enthusiasm for quantitative finance stems from the challenge of applying computational and mathematical techniques to extract insights from complex market data. I am exploring algorithmic trading concepts, data pipelines, and backtesting frameworks, with the goal of creating high-performing, data-driven systems that can adapt to evolving market conditions.
 #### Technical Skills: Python, Java, C, Rust, Solidity, SQL, AWS, Docker, Kubernetes 
 
 ## EDUCATION 			        		

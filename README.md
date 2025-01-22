@@ -12,7 +12,7 @@ Welcome to my portfolio!
 I am a junior at Texas Tech University with strong problem-solving and communication skills, currently pursuing a Bachelor’s degree in Computer Science. Alongside my formal education, I actively seek out new technologies and analytical methods to keep my skill set current. Upon graduating, I aim to become a Software Engineer focused on backend and infrastructure development, with a particular interest in quantitative finance.
 
 My enthusiasm for quantitative finance stems from the challenge of applying computational and mathematical techniques to extract insights from complex market data. I am exploring algorithmic trading concepts, data pipelines, and backtesting frameworks, with the goal of creating high-performing, data-driven systems that can adapt to evolving market conditions.
-#### Technical Skills: Python, Java, C, Rust, Solidity, SQL, AWS, Docker, Kubernetes 
+#### Technical Skills: Python, C++, OCaml, SQL, AWS
 
 ## EDUCATION 			        		
 B.S., Computer Science | Texas Tech University - _May 2026_
@@ -58,8 +58,19 @@ B.S., Computer Science | Texas Tech University - _May 2026_
 
 ## PROJECTS
 
+
+### Stock Analysis Engine 
+**[github repo](https://github.com/jb-gy/Stock-Analysis-Engine/tree/main)**
+
+_Python – NumPy, Pandas, SciPy, Matplotlib , Seaborn, Yfinance_
+- Built a tool financial analysis tool, automating day-end stock data retrieval and visualizing metrics like volatility, skewness, and Sharpe Ratio
+- Designed modular architecture for data fetching, statistical analysis, and visualization using NumPy, SciPy, Matplotlib, and Seaborn
+- Created visual insights with returns distribution, volatility trends, and comparative stock statistics for portfolio analysis.
+
+
+
 ### Machine Learning Project  
-**[github](https://github.com/jb-gy/ML-project-Fall2022)**
+**[github repo](https://github.com/jb-gy/ML-project-Fall2022)**
 
 
 _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
@@ -77,7 +88,7 @@ _Python (Jupyter workspace, Pandas, NumPy, Matplotlib.pyplot, sklearn)_
 
 
 ### Planmycash (budget planning app) – HackwesTX group project (2023) 
-**[github](https://github.com/jb-gy/HackwestX-Project)**
+**[github repo](https://github.com/jb-gy/HackwestX-Project)**
 
 
 _Python,Typescript, Plaid API, Terraform, AWS API gateway, AWS Lambda, AWS DynamoDB_
@@ -94,7 +105,7 @@ _Python,Typescript, Plaid API, Terraform, AWS API gateway, AWS Lambda, AWS Dynam
 
 
 ### Student Management System Project 
-**[github](https://github.com/jb-gy/Student-Management-System)**
+**[github repo](https://github.com/jb-gy/Student-Management-System)**
 
 
 _React.JS, Typescript, Python, FAST API, Pydantic, Docker_
@@ -111,7 +122,7 @@ _React.JS, Typescript, Python, FAST API, Pydantic, Docker_
 
 
 ### SMS (Store management System) Project 
-**[github](https://github.com/jb-gy/SMS-Project)**
+**[github repo](https://github.com/jb-gy/SMS-Project)**
 
 
 _Python backend, tkinter_
@@ -129,8 +140,7 @@ _Python backend, tkinter_
 
 <more in progress, stay tuned...........>
 
-Do not hesitate to reach out to collaborate on projects, or hire me if you're a recruiter :)
-
+Do not hesitate to reach out  :)
 
 
 Email: ajibola.gy@gmail.com
@@ -140,7 +150,7 @@ Email: ajibola.gy@gmail.com
 
 
 ## CERTIFICATIONS
-- New Horizons Institute, Lagos, Nigeria — Certified Python Programmer - 2021
+- New Horizons Institute -  Python Development - 2021
 - AWS Certified Cloud Practitioner — 2023 
 - AWS Certified Solutions Architect Professional — 2024 (in progress)
 - Codepath Technical Interview Prep TIP101  — 2024 

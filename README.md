@@ -3,7 +3,7 @@
 
 
 PS: Used to be my old portfolio, but soon to be blog (dev notes). Stay tuned
-Welcome to my portfolio!
+
 
 
 

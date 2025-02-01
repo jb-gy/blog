@@ -1,5 +1,6 @@
 title: blog
 logo: /IMG_7929.jpg
+favicon: /hackwest.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-hacker
